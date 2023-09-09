@@ -108,7 +108,7 @@ img {
 /* HOME
 -------------------- */
 #home {
-  background-image: url(../img/IMG_5421.JPG);
+  background-image: url("https://github.com/kojiroengineer/camp/blob/main/IMG_5421.JPG?raw=true");
   min-height: 100vh;
 }
 
