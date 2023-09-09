@@ -100,7 +100,7 @@ img {
 #facility,
 #fee,
 #contact {
-  background-image: url("https://github.com/kojiroengineer/camp/blob/main/IMG_5421cut.JPG?raw=true");
+  background-image: url(https://github.com/kojiroengineer/camp/blob/main/IMG_5421cut.JPG?raw=true);
   height: 270px;
   margin-bottom: 40px;
 }
@@ -108,7 +108,7 @@ img {
 /* HOME
 -------------------- */
 #home {
-  background-image: url("https://github.com/kojiroengineer/camp/blob/main/IMG_5421.JPG?raw=true");
+  background-image: url(https://github.com/kojiroengineer/camp/blob/main/IMG_5421.JPG?raw=true);
   min-height: 100vh;
 }
 
